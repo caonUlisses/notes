@@ -3,6 +3,19 @@
 #### Platform: Online Course
 ---
 
+* [Introduction](#introduction)
+* [But why Babel?](#but-why-babel)
+* [Alright, so Why webpack?](#alright-so-why-webpack)
+* [Variables and Scope in ES6](#variables-and-scope-in-es6)
+    * [LET there be variables](#let-there-be-variables)
+    * [CONST is key](#const-is-key)
+* [Template Literals](#template-literals)
+* [The Spread operator](#the-spread-operator)
+* [Destructuring Assignments](#destructuring-assignments)
+* [Arrow functions](#arrow-functions)
+    * [Exporting values](#exporting-values)
+* [Object Oriented Programming on ES6](#object-oriented-programming-on-es6)
+
 ## Introduction
 
 ES6 is the sixth standard of the JavaScript language, which will be compiled (for the moment), using Babel, Webpack.
