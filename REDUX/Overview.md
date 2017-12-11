@@ -10,3 +10,8 @@ Redux is a tool for State management, usually used with React. One can use it wi
 ## BUT WHY?
 
 Sometimes, an app can get really tricky really fast, and managing the state of components - and its children - can get REALLY tricky. Redux helps to maintain things more steady and clearer.
+
+## Gimme a brief explanation, please.
+
+Of course, if we were to summarize Redux, it would be like:
+> Redux is an implementation of flux, it consists of a way to dispatch actions and data through the application. It manipulates the state and handles the store (which is read only). It claims that every store manipulation has to be through a pure function.
